@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Test Player",
+      "email": "testplayer@example.com",
+      "passwordHash": "9090824074f672c3b0b24e32c61605af:7890dd79bf896927f58c8683ccd500a6e0dfbc1604e5f2259f6aa54ec82f9aecf41b344432618be15ad69921d49409ba1d7b096448585188c974ab0a36fd4b98",
+      "createdAt": "2026-04-27T17:06:25.303Z"
+    },
+    {
+      "id": 2,
+      "name": "khalid",
+      "email": "khalid@email.com",
+      "passwordHash": "ebf41536311eec6e7822ac62b17bb059:317a441dad20718ff84226b7914edf03e43b4ad6b4ecd45fa3bab204f0464691c3e157f6ced98ef8dfae380329a89085ce59bd83d725c6dac024f2adc50aa371",
+      "createdAt": "2026-04-27T17:07:37.960Z"
+    },
+    {
+      "id": 3,
+      "name": "gggg",
+      "email": "gggg@gmail.com",
+      "passwordHash": "95d03dc9f3633a83565d23536655c169:60137704057f283e1e1378d5b9b24fc7e882228ba032174349d64c2b7f24d1ca48dacb8219f48270665bfc2d768dd6c70fc49bf1cab517ee935b79921d26a38e",
+      "createdAt": "2026-04-27T17:18:01.992Z"
+    }
+  ],
+  "tokens": [
+    {
+      "token": "14e943a2babdd15f0696f859d513e3f5ba568ea7e0cad7c6ce2e9eef8cc680b9",
+      "userId": 1,
+      "createdAt": "2026-04-27T17:06:25.303Z"
+    },
+    {
+      "token": "f2a780750422f555e92e9351d845d054968097233df3bb137f354f34e50cb37b",
+      "userId": 1,
+      "createdAt": "2026-04-27T17:06:33.107Z"
+    },
+    {
+      "token": "d89356074dd39aaf0d534a3deb728c6cdb3e5f61e0f0ba8900594afc1f242bf3",
+      "userId": 2,
+      "createdAt": "2026-04-27T17:07:37.961Z"
+    },
+    {
+      "token": "3fcc1360b68aa41ec06bf91601016d6f07d2a5c9c6f1c492f132cf6e3f1c60e9",
+      "userId": 3,
+      "createdAt": "2026-04-27T17:18:01.992Z"
+    }
+  ],
+  "lastUserId": 3
+}

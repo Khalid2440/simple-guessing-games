@@ -1,0 +1,8 @@
+<svg width="800" height="260" viewBox="0 0 800 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="260" rx="40" fill="#FFF7ED"/>
+  <circle cx="155" cy="151" r="69" fill="#FDE68A"/>
+  <circle cx="210" cy="151" r="88" fill="#FFFFFF"/>
+  <circle cx="294" cy="151" r="66" fill="#F3E8FF"/>
+  <rect x="140" y="149" width="220" height="68" rx="34" fill="#FFFFFF"/>
+  <text x="420" y="164" font-family="Arial, sans-serif" font-size="72" font-weight="900" fill="#7C3AED">PLAY?</text>
+</svg>
